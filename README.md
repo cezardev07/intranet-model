@@ -1,6 +1,6 @@
 # API Intranet
 
-A API está disponível para ser acessado por qualquer cliente que tenha permissão para alcançar o servidor onde a aplicação está sendo executada.
+A API está disponível para ser acessado por qualquer cliente **(celular, desktop, tablet, tv)** que tenha permissão para alcançar o servidor onde a aplicação está sendo executada.
 
 ## Introdução
 Este é um modelo basico de uma API intranet desenvolvida para fornecer informações sobre endereços MAC e seus respectivos endereços IP dentro de uma rede local. A API foi construída usando Node.js com o framework Express.
