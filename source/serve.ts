@@ -21,6 +21,8 @@ try {
             JSON.stringify({
               ip_version: host.name,
               http: `http://${host.ip}:${port}`,
+              api: `http://${host.ip}:${port}/api`,
+              pdf: `http://${host.ip}:${port}/pdf`,
               mac
             }, null, 2)
           }`)
